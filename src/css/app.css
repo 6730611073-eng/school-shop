@@ -1,0 +1,7 @@
+body {
+  background: #f5f5f5;
+}
+.page-box {
+  max-width: 1000px;
+  margin: 0 auto;
+}

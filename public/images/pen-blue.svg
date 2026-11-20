@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 180" width="240" height="180"><rect width="240" height="180" fill="#e3f2fd"/><g transform="rotate(-30 120 90)">
+<rect x="35" y="78" width="140" height="24" rx="10" fill="#1e88e5"/>
+<rect x="35" y="78" width="40" height="24" rx="10" fill="#0d47a1"/>
+<polygon points="175,78 205,90 175,102" fill="#e8d5b0"/>
+<polygon points="196,86 205,90 196,94" fill="#333"/>
+<rect x="85" y="72" width="8" height="36" rx="3" fill="#ddd"/>
+<rect x="60" y="72" width="50" height="5" rx="2" fill="#ccc"/></g></svg>

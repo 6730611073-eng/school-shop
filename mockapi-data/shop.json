@@ -1,0 +1,126 @@
+[
+ {
+  "id": "1",
+  "type": "product",
+  "name": "ปากกาลูกลื่นสีน้ำเงิน",
+  "category": "ปากกา",
+  "price": 10,
+  "stock": 100,
+  "image": "/images/pen-blue.svg"
+ },
+ {
+  "id": "2",
+  "type": "product",
+  "name": "ปากกาลูกลื่นสีแดง",
+  "category": "ปากกา",
+  "price": 10,
+  "stock": 80,
+  "image": "/images/pen-red.svg"
+ },
+ {
+  "id": "3",
+  "type": "product",
+  "name": "ปากกาเจล 0.5 มม.",
+  "category": "ปากกา",
+  "price": 15,
+  "stock": 60,
+  "image": "/images/pen-gel.svg"
+ },
+ {
+  "id": "4",
+  "type": "product",
+  "name": "ดินสอ 2B",
+  "category": "ดินสอ",
+  "price": 8,
+  "stock": 120,
+  "image": "/images/pencil.svg"
+ },
+ {
+  "id": "5",
+  "type": "product",
+  "name": "ดินสอสี 12 สี",
+  "category": "ดินสอ",
+  "price": 65,
+  "stock": 25,
+  "image": "/images/color-pencils.svg"
+ },
+ {
+  "id": "6",
+  "type": "product",
+  "name": "ยางลบ",
+  "category": "อุปกรณ์เขียน",
+  "price": 12,
+  "stock": 60,
+  "image": "/images/eraser.svg"
+ },
+ {
+  "id": "7",
+  "type": "product",
+  "name": "ไม้บรรทัด 30 ซม.",
+  "category": "อุปกรณ์เขียน",
+  "price": 15,
+  "stock": 40,
+  "image": "/images/ruler.svg"
+ },
+ {
+  "id": "8",
+  "type": "product",
+  "name": "กรรไกร",
+  "category": "อุปกรณ์เขียน",
+  "price": 35,
+  "stock": 30,
+  "image": "/images/scissors.svg"
+ },
+ {
+  "id": "9",
+  "type": "product",
+  "name": "สมุดปกอ่อน 80 แผ่น",
+  "category": "สมุด",
+  "price": 25,
+  "stock": 50,
+  "image": "/images/notebook.svg"
+ },
+ {
+  "id": "10",
+  "type": "product",
+  "name": "สมุดโน้ต A5",
+  "category": "สมุด",
+  "price": 45,
+  "stock": 30,
+  "image": "/images/notepad.svg"
+ },
+ {
+  "id": "11",
+  "type": "product",
+  "name": "กระเป๋าดินสอ",
+  "category": "กระเป๋า",
+  "price": 79,
+  "stock": 20,
+  "image": "/images/pencil-case.svg"
+ },
+ {
+  "id": "12",
+  "type": "product",
+  "name": "แฟ้มใส่เอกสาร",
+  "category": "กระเป๋า",
+  "price": 29,
+  "stock": 45,
+  "image": "/images/folder.svg"
+ },
+ {
+  "id": "13",
+  "type": "user",
+  "username": "admin",
+  "password": "1234",
+  "name": "แอดมินร้าน",
+  "role": "admin"
+ },
+ {
+  "id": "14",
+  "type": "user",
+  "username": "student",
+  "password": "1234",
+  "name": "นักศึกษา ทดสอบ",
+  "role": "customer"
+ }
+]

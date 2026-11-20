@@ -1,0 +1,30 @@
+{
+  "name": "school-shop",
+  "version": "0.0.1",
+  "description": "ร้านขายอุปกรณ์การเรียน - Lab8 Quasar mini project",
+  "productName": "School Shop",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "quasar dev",
+    "build": "quasar build",
+    "serve": "quasar serve dist/spa"
+  },
+  "dependencies": {
+    "@quasar/extras": "^1.16.12",
+    "axios": "^1.7.9",
+    "pinia": "^3.0.1",
+    "quasar": "^2.17.7",
+    "vue": "^3.5.13",
+    "vue-router": "^4.5.0"
+  },
+  "devDependencies": {
+    "@quasar/app-vite": "^2.1.0",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.49"
+  },
+  "engines": {
+    "node": "^20 || ^22 || ^24",
+    "npm": ">= 6.13.4"
+  }
+}
